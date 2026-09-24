@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .element {
+    all: none;
+} */
+
+body, h1, h2 {
+    font-family: "Sofia", sans-serif;
+}
+
+/* .home, .home h2 {
+    font-family: "Sofia", sans-serif;
+} */
+
+.links {
+    list-style-type: none;
+}
+
+.links img {
+    padding: 0;
+    width: 10px;
+    margin-right: 5px;
+}
+
+.statement {
+    margin: 100px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}

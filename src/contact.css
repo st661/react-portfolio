@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .element {
+    all: none;
+} */
+
+body, h1, h2 {
+    font-family: "Sofia", sans-serif;
+}
+
+.contactform fieldset {
+    float: center;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.contactform legend {
+    text-align: center;
+}
+
+.contactform label, .contactform input, .contactform textarea {
+    margin: 5px;
+}
+
+/* .message {
+    
+} */
+
+.contactform input:invalid {
+    background-color: rgb(221,147,148,0.2);
+}
+
+.submit, .reset {
+    width: 10%;
+}
+
+.box {
+    float: right;
+    clear: both;
+    margin-right: 30px;
+    
+}
+
+.contactinfo {
+    float: center;
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
