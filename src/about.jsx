@@ -5,7 +5,7 @@ export default function About() {
         <div class="about">
             <div class="aboutme">
                 {/* Insert my picture */}
-                <img src="./images/myself.JPG" />
+                <img src="./dist/images/myself.JPG" />
                 <div class="intro">
                     <h1>Name: Shiori Takeda</h1>
                     
@@ -16,7 +16,7 @@ export default function About() {
             <div class="resume">
                 <a href="https://1drv.ms/b/c/65af6ac6bc2beb89/IQAL1MaQRvt0RZ92hrPI54gKAbELXUN6KDNYewBw1WVceB0?e=LgL1Du"><h2>Resume_download</h2></a>
                 {/* Add the data of the resume (.pdf) */}
-                <iframe src="./images/Resume_ShioriTakeda.pdf"></iframe>
+                <iframe src="./dist/images/Resume_ShioriTakeda.pdf"></iframe>
             </div>
         </div>
     );

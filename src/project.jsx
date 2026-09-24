@@ -27,7 +27,7 @@ export default function Project() {
             </ul>
             <br />
             {/* Add the data of the project (SRS.pdf) */}
-            <iframe src="./images/COMP225_TeamProject_ShioriTakeda.pdf"></iframe>
+            <iframe src="./dist/images/COMP225_TeamProject_ShioriTakeda.pdf"></iframe>
             <br /><br />
             <h2>eCommerce</h2>
             <p>As a team, we practiced agile collaboration by booking campus meeting rooms and conducting regular check-ins. We set independent internal deadlines to stay ahead of the official schecdule, shared information transparently, and tracked our progress to ensure steady advancement.&emsp;<br /><a href="https://1drv.ms/w/c/65af6ac6bc2beb89/IQBiFs9T_c2CS4SVJHKEez1YAU_OAdLfWEOth-v9m1Iu58w?e=sIlacF">Link to eCommerce</a></p>
@@ -42,7 +42,7 @@ export default function Project() {
             </ul>
             <br />
             {/* Add the data of the project (eCommerce.pdf) */}
-            <iframe src="./images/eCommerce_GroupProject_ShioriTakeda.pdf"></iframe>
+            <iframe src="./dist/images/eCommerce_GroupProject_ShioriTakeda.pdf"></iframe>
             <br /><br /><br />
             <h1>Individual Project</h1>
             <br />
@@ -52,9 +52,9 @@ export default function Project() {
             </p>
             <br />
             <div class="restaurant-images">
-                <img src="./images/restaurant_home.png" />
-                <img src="./images/restaurant_aboutus.png" />
-                <img src="./images/restaurant_galleries.png" />
+                <img src="./dist/images/restaurant_home.png" />
+                <img src="./dist/images/restaurant_aboutus.png" />
+                <img src="./dist/images/restaurant_galleries.png" />
             </div>
             <br />
         </div>

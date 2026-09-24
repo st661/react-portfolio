@@ -10,12 +10,12 @@ export default function Layout() {
             </div>
             <nav class="navbar">
                 <ul>
-                    <li><Link to="/"><p><img src="./images/WolfLogo.png" />Home</p></Link></li><div class="bar" />
-                    <li><Link to="/about"><p><img src="./images/WolfLogo.png" />About Me</p></Link></li><div class="bar" />
-                    <li><Link to="/project"><p><img src="./images/WolfLogo.png" />Projects</p></Link></li><div class="bar" />
-                    <li><Link to="/education"><p><img src="./images/WolfLogo.png" />Education</p></Link></li><div class="bar" />
-                    <li><Link to="/service"><p><img src="./images/WolfLogo.png" />Services</p></Link></li><div class="bar" />
-                    <li><Link to="/contact"><p><img src="./images/WolfLogo.png" />Contact Me</p></Link></li>
+                    <li><Link to="/"><p><img src="./dist/images/WolfLogo.png" />Home</p></Link></li><div class="bar" />
+                    <li><Link to="/about"><p><img src="./dist/images/WolfLogo.png" />About Me</p></Link></li><div class="bar" />
+                    <li><Link to="/project"><p><img src="./dist/images/WolfLogo.png" />Projects</p></Link></li><div class="bar" />
+                    <li><Link to="/education"><p><img src="./dist/images/WolfLogo.png" />Education</p></Link></li><div class="bar" />
+                    <li><Link to="/service"><p><img src="./dist/images/WolfLogo.png" />Services</p></Link></li><div class="bar" />
+                    <li><Link to="/contact"><p><img src="./dist/images/WolfLogo.png" />Contact Me</p></Link></li>
                 </ul>
             </nav>
             <hr />

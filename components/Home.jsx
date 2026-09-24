@@ -8,12 +8,12 @@ export default function Home() {
             <p>Thank you for visiting my portfolio. <br />Please explore the sections below to learn more about my background and experience: </p>
             <br />
             <ul class="links">
-                <li><Link to="/"><p><img src="./images/dogpad.png" />Home</p></Link></li><div class="bar" />
-                <li><Link to="/about"><p><img src="./images/dogpad.png" />About Me</p></Link></li><div class="bar" />
-                <li><Link to="/project"><p><img src="./images/dogpad.png" />Projects</p></Link></li><div class="bar" />
-                <li><Link to="/education"><p><img src="./images/dogpad.png" />Education</p></Link></li><div class="bar" />
-                <li><Link to="/service"><p><img src="./images/dogpad.png" />Services</p></Link></li><div class="bar" />
-                <li><Link to="/contact"><p><img src="./images/dogpad.png" />Contact Me</p></Link></li>
+                <li><Link to="/"><p><img src="./dist/images/dogpad.png" />Home</p></Link></li><div class="bar" />
+                <li><Link to="/about"><p><img src="./dist/images/dogpad.png" />About Me</p></Link></li><div class="bar" />
+                <li><Link to="/project"><p><img src="./dist/images/dogpad.png" />Projects</p></Link></li><div class="bar" />
+                <li><Link to="/education"><p><img src="./dist/images/dogpad.png" />Education</p></Link></li><div class="bar" />
+                <li><Link to="/service"><p><img src="./dist/images/dogpad.png" />Services</p></Link></li><div class="bar" />
+                <li><Link to="/contact"><p><img src="./dist/images/dogpad.png" />Contact Me</p></Link></li>
             </ul>
 
             <br />

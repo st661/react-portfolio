@@ -9,13 +9,13 @@ export default function Service() {
             <div class="servicelist">
                 <h2>Web Development</h2>
                 <p>I create websites for customers and deliver them with care and attention to detail.</p>
-                <img src="./images/WebDevelopment.png" />
+                <img src="./dist/images/WebDevelopment.png" />
             </div>
             <br />
             <div class="servicelist">
                 <h2>Ciber Security</h2>
                 <p>I work to keep customers' computers safe by helping prevent security problems and digital threats.</p>
-                <img src="./images/CiberSecurity.png" />
+                <img src="./dist/images/CiberSecurity.png" />
             </div>
             <br />
             <div class="servicelist">
